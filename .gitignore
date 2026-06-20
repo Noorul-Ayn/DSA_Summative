@@ -2,6 +2,7 @@
 incident_tracker/incident_tracker
 maintenance_validator/validator
 airline_routes/airline_routes
+campus_robot/campus_robot
 *.o
 *.out
 
