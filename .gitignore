@@ -1,8 +1,11 @@
 # Compiled binaries
 incident_tracker/incident_tracker
+maintenance_validator/validator
 *.o
 *.out
 
 # Runtime-generated files
 */session_log.txt
+*/audit.log
 session_log.txt
+audit.log
