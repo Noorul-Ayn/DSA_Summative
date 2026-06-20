@@ -1,0 +1,8 @@
+# Compiled binaries
+incident_tracker/incident_tracker
+*.o
+*.out
+
+# Runtime-generated files
+*/session_log.txt
+session_log.txt
