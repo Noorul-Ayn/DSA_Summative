@@ -3,6 +3,7 @@ incident_tracker/incident_tracker
 maintenance_validator/validator
 airline_routes/airline_routes
 campus_robot/campus_robot
+telemetry_compression/telemetry_compression
 *.o
 *.out
 
@@ -11,3 +12,7 @@ campus_robot/campus_robot
 */audit.log
 session_log.txt
 audit.log
+
+# Generated compression artifacts
+telemetry_compression/telemetry.huff
+telemetry_compression/telemetry_restored.txt
